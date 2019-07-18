@@ -1,1 +1,2 @@
 1. Memahami GIThub
+2. Mempelajari GIThub
